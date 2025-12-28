@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&customColorList=FFC0CB,FF69B4,C71585&text=Laiza%20Rocha&textBg=false&fontColor=8B004B&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=pink&text=Laiza%20Rocha&textBg=false&fontColor=C71585&fontAlign=50" />
   <br>
   <p>
     Graduanda em Engenharia de Energias Renováveis pela Universidade Federal do Ceará, com interesse em desenvolvimento de software, inteligência artificial e automação. Atualmente, estou trabalhando em projetos envolvendo Python e Dart, aplicações móveis e sistemas inteligentes, com foco em soluções tecnológicas aplicadas a problemas reais.

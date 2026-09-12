@@ -13,7 +13,6 @@ An enthusiastic Renewable Energy Engineering undergraduate student at the Federa
 -  Currently working as a **Junior Software Developer** at the Smart Grids Laboratory (GREI-UFC), building co-simulation integrations for smart grid applications using Python, C++, and Docker.
 - I completed a specialized **Technological Residency in Embedded Systems** through the **EmbarcaTech** program (FAIFCE/IFCE).
 - Experienced in hardware-software integration, microcontrollers (Raspberry Pi Pico, ESP32, Arduino), and IoT solutions from my time at RAITec-UFC.
-- I am Looking for global, remote opportunities where I can tackle complex engineering and software challenges.
 
 ---
 
